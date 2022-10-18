@@ -1,7 +1,7 @@
 # Design Patterns
 >Design Patterns are general and reusable solutions to commonly occurring software design problems
 
-##Categories
+## Categories
 |Category|Description|
 |--------|-----------|
 |**Creational Patterns**|object creation mechanisms that increases flexibility & reusability of existing code|
