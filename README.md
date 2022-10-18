@@ -1,4 +1,4 @@
-#Design Patterns
+# Design Patterns
 >Design Patterns are general and reusable solutions to commonly occurring software design problems
 
 ##Categories
@@ -11,8 +11,9 @@
 
 
 
-##Note
+## Note
+
 *this repository contains theoretical materials in the various README.md 
 documents as well as sample code employing the various software design patterns - 
-each pattern will be on its own unique **branch** with the following naming convention \<category>/<pattern-name>*
+each pattern will be on its own unique **branch** with the following naming convention \<category>/\<pattern-name>*
 
